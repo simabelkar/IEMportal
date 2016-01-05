@@ -1,0 +1,6 @@
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\bin\Drushim.dll.config
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\bin\Drushim.dll
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\bin\Drushim.pdb
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\obj\Debug\Drushim.csprojResolveAssemblyReference.cache
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\obj\Debug\Drushim.dll
+C:\Users\amalia\Documents\limudim\פרוייקט גמר\IndustrialAndManagementPortal\Drushim\Drushim\obj\Debug\Drushim.pdb
