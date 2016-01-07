@@ -22,6 +22,7 @@ namespace Drushim
             {
                 MailMessage mail = new MailMessage();
                 SmtpClient smtpServer = new SmtpClient("smtp.gmail.com");
+                String to = email_Add.Text;
                 String mailtext = "שלום " + UserName.Text + "\n" +
                     "תודה על הרשמתך!" + "\n" +
                     "אנו עושים מאמצים רבים להשיק את האתר במהירות ובאיכות" + "\n" +
@@ -32,7 +33,7 @@ namespace Drushim
 
                 //String  to = subs.Text;
                 mail.From = new MailAddress("donotreplyIEMjobs@gmail.com");
-                mail.To.Add("simabelker@gmail.com");
+                mail.To.Add(to);
                 mail.Subject = "הרשמתך התקבלה במערכת IEMjobs";
                 mail.Body = mailtext;
 
